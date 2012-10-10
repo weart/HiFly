@@ -14,6 +14,7 @@ var web;
 content.readFile(__dirname+ '/index.html', 'UTF-8', guardarAweb);
 
 app.get('/', function(req, res){
+	console.log('Hem rebut una petició!');
 	res.send(web);
 });
 
