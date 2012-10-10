@@ -23,3 +23,6 @@
 
 //Afegir un nou repositori//
     git remote add nom_repositori url_repositori
+
+//Per treballar amb windows sa d'escriure un cop aquesta comanda (https://help.github.com/articles/dealing-with-line-endings)//
+    git config --global core.autocrlf true
