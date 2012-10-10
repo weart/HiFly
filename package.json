@@ -1,1 +1,1 @@
-{	"name": "HiFly",	"version": "0.1",	"author": "we <we@we.we>",	"description": "Testing",	"contributors": [		'arnaupou'	],	"license": "MIT",	"engines": {		"node": ">=0.6"	}}
+{	"name": "HiFly",	"version": "0.1",	"author": "we <we@we.we>",	"description": "Testing",	"contributors": [		'puto'	],	"license": "MIT",	"engines": {		"node": ">=0.6"	}}
